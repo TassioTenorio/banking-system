@@ -35,7 +35,7 @@ banking-system/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/TassioTenorio/banking-system.git
 ```
 
 Navigate to the project directory:
@@ -56,4 +56,4 @@ python main.py
 
 Software Development | Python
 
-[GitHub](YOUR_GITHUB_PROFILE_URL)
+[GitHub](https://github.com/TassioTenorio)
